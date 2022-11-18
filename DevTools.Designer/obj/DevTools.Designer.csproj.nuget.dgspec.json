@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C SHARP\\BasicDevTools-master\\DevTools.Designer\\DevTools.Designer.csproj": {}
+  },
+  "projects": {
+    "D:\\C SHARP\\BasicDevTools-master\\DevTools.Designer\\DevTools.Designer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C SHARP\\BasicDevTools-master\\DevTools.Designer\\DevTools.Designer.csproj",
+        "projectName": "DevTools.Designer",
+        "projectPath": "D:\\C SHARP\\BasicDevTools-master\\DevTools.Designer\\DevTools.Designer.csproj",
+        "packagesPath": "C:\\Users\\ALGORITHME TAKAM\\.nuget\\packages\\",
+        "outputPath": "D:\\C SHARP\\BasicDevTools-master\\DevTools.Designer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ALGORITHME TAKAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
